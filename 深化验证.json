@@ -1,0 +1,256 @@
+{
+  "version": "1.1",
+  "checks": {
+    "counts": "通过",
+    "scriptSyntax": "通过",
+    "supplementFields": "通过",
+    "duplicatePractice": "无",
+    "numericalChecks": 60
+  },
+  "numerical": [
+    {
+      "name": "J06 分层去分母",
+      "result": "通过"
+    },
+    {
+      "name": "J12 盐质量",
+      "result": "通过"
+    },
+    {
+      "name": "J12 加水",
+      "result": "通过"
+    },
+    {
+      "name": "J13 租车费用",
+      "result": "通过"
+    },
+    {
+      "name": "J23 两面展开前顶",
+      "result": "通过"
+    },
+    {
+      "name": "J23 两面展开左顶",
+      "result": "通过"
+    },
+    {
+      "name": "J25 菱形半径边长",
+      "result": "通过"
+    },
+    {
+      "name": "J25 中点面积",
+      "result": "通过"
+    },
+    {
+      "name": "J27 两箱交点",
+      "result": "通过"
+    },
+    {
+      "name": "J31 盒底",
+      "result": "通过"
+    },
+    {
+      "name": "J31 体积",
+      "result": "通过"
+    },
+    {
+      "name": "J33 定价利润",
+      "result": "通过"
+    },
+    {
+      "name": "J37 梯形面积",
+      "result": "通过"
+    },
+    {
+      "name": "J40 内切圆半径",
+      "result": "通过"
+    },
+    {
+      "name": "J43 加乙盒成功率",
+      "result": "通过"
+    },
+    {
+      "name": "H04 受限围栏",
+      "result": "通过"
+    },
+    {
+      "name": "H11 倍角平方和",
+      "result": "通过"
+    },
+    {
+      "name": "H13 夹角余弦",
+      "result": "通过"
+    },
+    {
+      "name": "H18 点面距离",
+      "result": "通过"
+    },
+    {
+      "name": "H21 切线距离",
+      "result": "通过"
+    },
+    {
+      "name": "H24 竖直椭圆弦",
+      "result": "通过"
+    },
+    {
+      "name": "H26 错位和",
+      "result": "通过"
+    },
+    {
+      "name": "H28 盒体积",
+      "result": "通过"
+    },
+    {
+      "name": "H33 观察后来源",
+      "result": "通过"
+    },
+    {
+      "name": "H39 卡方",
+      "result": "通过"
+    },
+    {
+      "name": "A06 中值点",
+      "result": "通过"
+    },
+    {
+      "name": "A07 四阶余项界",
+      "result": "通过"
+    },
+    {
+      "name": "A07 六阶余项界",
+      "result": "通过"
+    },
+    {
+      "name": "A07 迁移误差界",
+      "result": "通过"
+    },
+    {
+      "name": "A11 迁移取等约束",
+      "result": "通过"
+    },
+    {
+      "name": "A12 带权平方差",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-12 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-12 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-11 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-11 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-10 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-10 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-9 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-9 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-8 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-8 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-7 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-7 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-6 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-6 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-5 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-5 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-4 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-4 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-3 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-3 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-2 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-2 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-1 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=-1 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=0 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=0 sign=1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数一次退化",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=2 sign=-1",
+      "result": "通过"
+    },
+    {
+      "name": "J31 参数代回 k=2 sign=1",
+      "result": "通过"
+    }
+  ],
+  "limits": [
+    "数值抽查与参数网格用于寻找错误，不构成一般性数学证明。",
+    "教学效果尚未经真实学生试学验证。"
+  ]
+}

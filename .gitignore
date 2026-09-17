@@ -1,0 +1,7 @@
+node_modules/
+work/
+*.zip
+*学习进度*.json
+.env
+.env.*
+.DS_Store

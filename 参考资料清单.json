@@ -1,0 +1,17 @@
+[
+  {
+    "title": "人教社教材主编说明",
+    "url": "https://www.pep.com.cn/xw/zt/hd/12/zbtjc/202410/t20241022_1996035.html",
+    "status": "出版社公开说明，用于课程背景，不替代数学逐项证明。"
+  },
+  {
+    "title": "OpenStax Calculus",
+    "url": "https://openstax.org/subjects/math",
+    "status": "公开大学数学教材入口；具体卡片列出相关章节。"
+  },
+  {
+    "title": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu/",
+    "status": "公开课程入口；具体卡片列出相关讲义或课程。"
+  }
+]

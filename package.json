@@ -1,0 +1,14 @@
+{
+  "name": "math-self-study-library",
+  "version": "1.1.0",
+  "private": true,
+  "description": "中文数学自学知识库：基础、条件、证明与分层练习",
+  "scripts": {
+    "build": "node 构建工具/build_diagrams.mjs && node 构建工具/build_kb.mjs",
+    "test": "node 构建工具/verify_v11.mjs ."
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "SEE LICENSE IN LICENSES.md"
+}

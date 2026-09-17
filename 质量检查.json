@@ -1,0 +1,183 @@
+{
+  "version": "1.1",
+  "generatedAt": "2026-09-16T14:57:21.861Z",
+  "stats": {
+    "modules": 103,
+    "concepts": 324,
+    "examples": 103,
+    "practice": 287,
+    "theorems": 18,
+    "stages": {
+      "初中": 45,
+      "高中": 40,
+      "高阶拓展": 18
+    },
+    "textCharacters": 265369,
+    "addedPractice": 81,
+    "layeredModules": 27,
+    "deepStudyModules": 12,
+    "diagrams": 8,
+    "diagnosticAndTransferQuestions": 24
+  },
+  "checks": {
+    "uniqueIDs": "通过",
+    "requiredFields": "通过",
+    "prerequisiteReferences": "通过",
+    "dependencyCycles": "无",
+    "localMarkdownLinks": "通过",
+    "selfContainedHTML": "通过",
+    "examEvidenceRecords": 10,
+    "numericalSpotChecks": 24
+  },
+  "numerical": [
+    {
+      "name": "J03 混合运算",
+      "result": "通过",
+      "value": 29,
+      "expected": 29
+    },
+    {
+      "name": "J06 方程代回",
+      "result": "通过",
+      "value": 0,
+      "expected": 0
+    },
+    {
+      "name": "J12 票款",
+      "result": "通过",
+      "value": 288,
+      "expected": 288
+    },
+    {
+      "name": "J25 菱形面积",
+      "result": "通过",
+      "value": 24,
+      "expected": 24
+    },
+    {
+      "name": "J28 方差",
+      "result": "通过",
+      "value": 2,
+      "expected": 2
+    },
+    {
+      "name": "J30 第一分类平方和",
+      "result": "通过",
+      "value": 1,
+      "expected": 1
+    },
+    {
+      "name": "J30 第二分类平方和",
+      "result": "通过",
+      "value": 49,
+      "expected": 49
+    },
+    {
+      "name": "J32 韦达组合",
+      "result": "通过",
+      "value": 19,
+      "expected": 19
+    },
+    {
+      "name": "J38 面积单位",
+      "result": "通过",
+      "value": 30,
+      "expected": 30
+    },
+    {
+      "name": "J41 圆锥展开角",
+      "result": "通过",
+      "value": 216,
+      "expected": 216
+    },
+    {
+      "name": "J43 放回同色",
+      "result": "通过",
+      "value": 0.5555555555555556,
+      "expected": 0.5555555555555556
+    },
+    {
+      "name": "H04 限制区间最值",
+      "result": "通过",
+      "value": 6.25,
+      "expected": 6.25
+    },
+    {
+      "name": "H18 体积换底距离",
+      "result": "通过",
+      "value": 1.1547005383792517,
+      "expected": 1.1547005383792517
+    },
+    {
+      "name": "H24 椭圆弦长",
+      "result": "通过",
+      "value": 2.5298221281347035,
+      "expected": 2.5298221281347035
+    },
+    {
+      "name": "H31 二项式系数",
+      "result": "通过",
+      "value": 24,
+      "expected": 24
+    },
+    {
+      "name": "H34 分布方差",
+      "result": "通过",
+      "value": 5,
+      "expected": 5
+    },
+    {
+      "name": "H35 超几何概率",
+      "result": "通过",
+      "value": 0.3,
+      "expected": 0.3
+    },
+    {
+      "name": "H38 回归斜率",
+      "result": "通过",
+      "value": 1.5,
+      "expected": 1.5
+    },
+    {
+      "name": "H39 卡方",
+      "result": "通过",
+      "value": 4,
+      "expected": 4
+    },
+    {
+      "name": "A07 余项界",
+      "result": "通过",
+      "value": 0.00006666666666666668,
+      "expected": 0.00006666666666666667
+    },
+    {
+      "name": "A10 等比余项",
+      "result": "通过",
+      "value": 0.0061728395061728366,
+      "expected": 0.006172839506172839
+    },
+    {
+      "name": "A11 最大值取等",
+      "result": "通过",
+      "value": 10,
+      "expected": 10
+    },
+    {
+      "name": "A16 贝叶斯",
+      "result": "通过",
+      "value": 0.6666666666666666,
+      "expected": 0.6666666666666666
+    },
+    {
+      "name": "A17 样本量",
+      "result": "通过",
+      "value": 499.9999999999999,
+      "expected": 500
+    }
+  ],
+  "limits": [
+    "自动数值检查为抽查，不是全部正文的机器证明。",
+    "外部来源链接有访问权限、网络及站点变更限制。",
+    "结构检查不等于完成全部教材逐页对照或地区考纲核对。"
+  ]
+}

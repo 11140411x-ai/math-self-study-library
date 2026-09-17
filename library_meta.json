@@ -1,0 +1,290 @@
+{
+  "version": "1.1",
+  "updated": "2026-09-16",
+  "title": "初高中数学自学知识库",
+  "scope": "全国通用主干＋大学入门拓展；建议学习阶段，不是全国统一年级进度表。",
+  "evidence": [
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 1,
+      "theme": "实数大小比较",
+      "modules": [
+        "J02",
+        "J10"
+      ],
+      "answer": "A",
+      "printedPage": 11,
+      "pdfPage": 12,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=12"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 2,
+      "theme": "轴对称与中心对称辨识",
+      "modules": [
+        "J17",
+        "J36"
+      ],
+      "answer": "D",
+      "printedPage": 11,
+      "pdfPage": 12,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=12"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 3,
+      "theme": "二次根式的定义域",
+      "modules": [
+        "J24"
+      ],
+      "answer": "D",
+      "printedPage": 11,
+      "pdfPage": 12,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=12"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 4,
+      "theme": "几何体主视图",
+      "modules": [
+        "J44"
+      ],
+      "answer": "A",
+      "printedPage": 11,
+      "pdfPage": 12,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=12"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 5,
+      "theme": "一次不等式与数轴",
+      "modules": [
+        "J13"
+      ],
+      "answer": "C",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 6,
+      "theme": "不放回抽样的列举概率",
+      "modules": [
+        "J43"
+      ],
+      "answer": "B",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 7,
+      "theme": "平行线与三角形角度",
+      "modules": [
+        "J09",
+        "J15"
+      ],
+      "answer": "B",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 8,
+      "theme": "矩形情境中的二次方程建模",
+      "modules": [
+        "J31",
+        "J32"
+      ],
+      "answer": "C",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 9,
+      "theme": "切线与圆中的角度关系",
+      "modules": [
+        "J39",
+        "J40"
+      ],
+      "answer": "C",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    },
+    {
+      "exam": "2025年福建省初中学业水平考试·数学",
+      "question": 10,
+      "theme": "二次函数代入与含参比较",
+      "modules": [
+        "J33",
+        "J34"
+      ],
+      "answer": "A",
+      "printedPage": 12,
+      "pdfPage": 13,
+      "answerPrintedPage": 17,
+      "answerPdfPage": 18,
+      "status": "原卷与官方参考答案已看图核对",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/cswz/fzygzz/zlxz/202506/P020250621484775049990.pdf#page=13"
+    }
+  ],
+  "routes": [
+    {
+      "title": "初中代数与函数主线",
+      "description": "运算与方程打底，再把图象、函数值和最值联系起来。",
+      "ids": [
+        "J01",
+        "J02",
+        "J03",
+        "J04",
+        "J05",
+        "J06",
+        "J12",
+        "J13",
+        "J19",
+        "J20",
+        "J21",
+        "J22",
+        "J26",
+        "J27",
+        "J31",
+        "J32",
+        "J33",
+        "J34",
+        "J35"
+      ]
+    },
+    {
+      "title": "初中几何主线",
+      "description": "先学几何语言与证明，勾股之后再做含距离计算的对称应用。",
+      "ids": [
+        "J08",
+        "J09",
+        "J15",
+        "J16",
+        "J23",
+        "J17",
+        "J18",
+        "J25",
+        "J36",
+        "J37",
+        "J38",
+        "J39",
+        "J40",
+        "J41",
+        "J42",
+        "J44"
+      ]
+    },
+    {
+      "title": "高中函数通向微积分",
+      "description": "拓展从严格定义开始，不把高阶公式当成跳过高中基础的捷径。",
+      "ids": [
+        "H01",
+        "H02",
+        "H03",
+        "H04",
+        "H05",
+        "H06",
+        "H07",
+        "H09",
+        "H10",
+        "H11",
+        "H27",
+        "H28",
+        "H29",
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A06",
+        "A07",
+        "A08",
+        "A09",
+        "A10",
+        "A18"
+      ]
+    },
+    {
+      "title": "统计概率通向推断",
+      "description": "区分描述、抽样、概率模型、统计证据和因果结论。",
+      "ids": [
+        "J14",
+        "J28",
+        "J29",
+        "J30",
+        "J43",
+        "H30",
+        "H31",
+        "H32",
+        "H33",
+        "H34",
+        "H35",
+        "H36",
+        "H37",
+        "H38",
+        "H39",
+        "A16",
+        "A17"
+      ]
+    },
+    {
+      "title": "几何代数与不等式拓展",
+      "description": "向量提供统一语言，再按兴趣分到矩阵、复数或凸性。",
+      "ids": [
+        "H13",
+        "H14",
+        "H15",
+        "H16",
+        "H17",
+        "H18",
+        "H19",
+        "H20",
+        "H21",
+        "H22",
+        "H23",
+        "H24",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15"
+      ]
+    }
+  ],
+  "distribution": "public"
+}
